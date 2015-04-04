@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "HTML untemplating",
   "main": "index.js",
+  "stability": "experimental",
   "scripts": {
     "test": "node test/all.js",
     "gendocs": "gendocs > README.md"

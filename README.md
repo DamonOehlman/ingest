@@ -7,7 +7,7 @@ alternative string content or
 
 [![NPM](https://nodei.co/npm/frag.png)](https://nodei.co/npm/frag/)
 
-[![bitHound Score](https://www.bithound.io/github/DamonOehlman/frag/badges/score.svg)](https://www.bithound.io/github/DamonOehlman/frag) 
+[![experimental](https://img.shields.io/badge/stability-experimental-red.svg)](https://github.com/dominictarr/stability#experimental) [![bitHound Score](https://www.bithound.io/github/DamonOehlman/frag/badges/score.svg)](https://www.bithound.io/github/DamonOehlman/frag) 
 
 ## Example Usage
 
