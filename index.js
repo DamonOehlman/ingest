@@ -96,6 +96,9 @@ module.exports = function(input, opts) {
     parser.write(input);
     parser.done();
   }
+  else if (input && typeof input.pipe == 'function') {
+    input.pipe(parser);
+  }
 
   return replace;
 };
