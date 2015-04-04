@@ -52,7 +52,7 @@ module.exports = function(input, opts) {
         name: node.tagName,
         children: (node.children || []).map(fromVnode),
         attribs: node.properties
-      }
+      };
     }
     else if (node.text) {
       return {
