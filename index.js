@@ -29,7 +29,7 @@ module.exports = function(input, opts) {
       });
     }
   });
-  var parser = new htmlparser.Parser(handler);
+  var parser = new htmlparser.Parser(handler, { decodeEntities: true });
 
   function clone(node) {
     var copy = extend({}, node);
