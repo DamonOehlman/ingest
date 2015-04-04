@@ -21,5 +21,16 @@
   "bugs": {
     "url": "https://github.com/DamonOehlman/frag/issues"
   },
-  "homepage": "https://github.com/DamonOehlman/frag"
+  "homepage": "https://github.com/DamonOehlman/frag",
+  "dependencies": {
+    "cog": "^1.1.0",
+    "css-select": "^1.1.0",
+    "domutils": "^1.5.1",
+    "htmlparser2": "^3.8.2"
+  },
+  "devDependencies": {
+    "hyperscript": "^1.4.6",
+    "tape": "^4.0.0",
+    "virtual-hyperscript": "^4.6.0"
+  }
 }
