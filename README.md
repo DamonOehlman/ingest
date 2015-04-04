@@ -7,7 +7,7 @@ alternative string content or
 
 [![NPM](https://nodei.co/npm/ingest.png)](https://nodei.co/npm/ingest/)
 
-[![experimental](https://img.shields.io/badge/stability-experimental-red.svg)](https://github.com/dominictarr/stability#experimental) [![bitHound Score](https://www.bithound.io/github/DamonOehlman/ingest/badges/score.svg)](https://www.bithound.io/github/DamonOehlman/ingest) 
+[![experimental](https://img.shields.io/badge/stability-experimental-red.svg)](https://github.com/dominictarr/stability#experimental) [![Build Status](https://img.shields.io/travis/DamonOehlman/ingest.svg?branch=master)](https://travis-ci.org/DamonOehlman/ingest) [![bitHound Score](https://www.bithound.io/github/DamonOehlman/ingest/badges/score.svg)](https://www.bithound.io/github/DamonOehlman/ingest) 
 
 ## Example Usage
 
