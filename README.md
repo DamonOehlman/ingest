@@ -1,13 +1,13 @@
-# frag
+# ingest
 
 Using CSS3 selectors, replace the existing content of a HTML document with
 alternative string content or
 [virtual-hyperscript](https://github.com/Raynos/virtual-hyperscript) subtrees.
 
 
-[![NPM](https://nodei.co/npm/frag.png)](https://nodei.co/npm/frag/)
+[![NPM](https://nodei.co/npm/ingest.png)](https://nodei.co/npm/ingest/)
 
-[![experimental](https://img.shields.io/badge/stability-experimental-red.svg)](https://github.com/dominictarr/stability#experimental) [![bitHound Score](https://www.bithound.io/github/DamonOehlman/frag/badges/score.svg)](https://www.bithound.io/github/DamonOehlman/frag) 
+[![experimental](https://img.shields.io/badge/stability-experimental-red.svg)](https://github.com/dominictarr/stability#experimental) [![bitHound Score](https://www.bithound.io/github/DamonOehlman/ingest/badges/score.svg)](https://www.bithound.io/github/DamonOehlman/ingest) 
 
 ## Example Usage
 
