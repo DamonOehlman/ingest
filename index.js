@@ -4,7 +4,7 @@ var select = require('css-select');
 var extend = require('cog/extend');
 
 /**
-  # frag
+  # ingest
 
   Using CSS3 selectors, replace the existing content of a HTML document with
   alternative string content or

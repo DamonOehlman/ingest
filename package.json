@@ -1,5 +1,5 @@
 {
-  "name": "frag",
+  "name": "ingest",
   "version": "1.0.0",
   "description": "HTML untemplating",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DamonOehlman/frag.git"
+    "url": "https://github.com/DamonOehlman/ingest.git"
   },
   "keywords": [
     "html",
@@ -21,9 +21,9 @@
   "author": "Damon Oehlman <damon.oehlman@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DamonOehlman/frag/issues"
+    "url": "https://github.com/DamonOehlman/ingest/issues"
   },
-  "homepage": "https://github.com/DamonOehlman/frag",
+  "homepage": "https://github.com/DamonOehlman/ingest",
   "dependencies": {
     "cog": "^1.1.0",
     "css-select": "^1.1.0",
