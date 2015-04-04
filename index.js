@@ -3,6 +3,19 @@ var htmlparser = require('htmlparser2');
 var select = require('css-select');
 var extend = require('cog/extend');
 
+/**
+  # frag
+
+  Using CSS3 selectors, replace the existing content of a HTML document with
+  alternative string content or
+  [virtual-hyperscript](https://github.com/Raynos/virtual-hyperscript) subtrees.
+
+  ## Example Usage
+
+  To be completed, in the meantime checkout the tests.
+
+**/
+
 module.exports = function(input, opts) {
   var dom;
   var backlog = [];
