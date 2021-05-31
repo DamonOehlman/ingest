@@ -26,7 +26,7 @@
   "homepage": "https://github.com/DamonOehlman/ingest",
   "dependencies": {
     "cog": "^1.1.0",
-    "css-select": "^1.1.0",
+    "css-select": "^4.0.0",
     "domutils": "^1.5.1",
     "htmlparser2": "^3.8.2"
   },
